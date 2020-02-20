@@ -4,7 +4,7 @@ const content = document.querySelector('.content')
 const gettings = [
   'Im good you little piece of love',
   'Doing good homeboi',
-  'leave me alone'
+  'leave me alone, i hate you'
 ]
 
 const weather = [
